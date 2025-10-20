@@ -1,3 +1,3 @@
 # AI-Driven Personalized Travel Advisor
 
-codes are in the master branch
+Everything is in the master branch
