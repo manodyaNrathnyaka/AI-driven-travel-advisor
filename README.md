@@ -1,6 +1,6 @@
 # AI-Driven Travel Advisor
 
-An intelligent travel advisory system that helps users find and book hotels,and get real time weather updates using AI-powered conversations. The system leverages the Amadeus API for hotel searches and LangChain for natural language processing.
+I'm developing the backend for An intelligent travel advisory system that helps users find and book hotels,and get real time weather updates using AI-powered conversations. The system leverages the Amadeus API for hotel searches and LangChain for natural language processing.
 
 ## Project Structure
 
