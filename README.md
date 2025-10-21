@@ -17,6 +17,7 @@ I'm developing the backend for An intelligent travel advisory system that helps 
 - Amadeus API
 - OpenAI GPT
 - OpenWeatherMap API
+- Agentic AI
 
 
 ## Setup
